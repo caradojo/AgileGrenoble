@@ -1,0 +1,30 @@
+.main-menu {
+  margin-top: 8rem;
+  span {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #6a737d;
+  }
+}
+
+.lnr.lg {
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-deck {
+  margin-top: 2rem;
+  .card.empty {
+    background-color: transparent;
+  }
+}
+
+.morning {
+  height: 6rem;
+}
+
+.card-header {
+  background-color: #3bd196;
+  font-size: 1.3em;
+  font-weight: bold;
+}
