@@ -2,5 +2,15 @@
   "wednesday": "Mercredi",
   "thursday": "Jeudi",
   "friday": "Vendredi",
-  "saturday": "Samedi"
+  "saturday": "Samedi",
+  "sections": {
+    "cfp": {
+     "title": "Appel à orateurs",
+     "presentation": "<p>Pour sa&nbsp;<strong>10ème édition</strong>, Agile Grenoble vous propose une édition spéciale avec <strong>3 journées de conférence</strong> et <strong>2 soirées</strong>, du <span style=\"text-decoration: underline;\">22 au 24 novembre</span>, avec plus de 1000 participants sur les 3 jours.</p><p>Venez vous agiter avec nous en partageant et échangeant sur&nbsp;<strong><span>l'agilité dans tous ses états</span></strong> autour des thèmes suivants :</p><ul><li><strong><span>L'agilité au jour le jour : du concret , des outils, des pratiques</span></strong></li><li><strong><span>Souvenirs de voyages en Agilité</span></strong></li><li><strong><span>Un nouveau souffle pour votre agilité</span></strong></li></ul><p><span>Les participants apprécient chaque année des sessions variées: s’enrichir de retours d’expérience, découvrir ou approfondir des aspects techniques et méthodologiques, et tout cela à travers des sessions dynamiques et fun!</span></p><span>Jusqu'au 25 août 2017, vous avez la possibilité, pour chaque journée, de soumettre :</span><ul><li>une session</li><li>un atelier</li><li>un jeu agile</li><li>un&nbsp;coding dojo</li></ul><p>Vous pouvez également soumettre la même proposition sur plusieurs journées.</p><p><span>Les soirées seront réservées aux jeux, ateliers et coding dojo.</span></p><p>Soumettez vos propositions via&nbsp;<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_s4iXPje6Xq8qglJ7XRi3MuxlqiJHMDXZvIh8nCCO4vt-Ww/viewform\" target=\"_blank\">notre formulaire en ligne</a>&nbsp;!</p><p>La sélection se fera au fur et à mesure de la soumission des propositions.</p>"
+    },
+    "program": "Programme",
+    "place": "Lieu",
+    "contact": "Contact",
+    "sponsors": "Sponsors"
+  }
 }
