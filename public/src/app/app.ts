@@ -3,7 +3,7 @@ angular
     // vendor dependancies
     'ui.router',
     'pascalprecht.translate',
-    'duScroll',
+    'hc.marked',
     // app
     'app.templates',
     'app.pages',

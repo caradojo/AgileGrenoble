@@ -2,25 +2,19 @@
   "name": "agile-grenoble",
   "version": "0.0.0",
   "dependencies": {
-    "angular-scroll": "^1.0.0",
     "angular-translate-loader-static-files": "^2.15.1",
     "angular-translate": "^2.15.1",
     "angular-ui-router": "^0.4.2",
     "angular": "^1.6.3",
     "bootstrap": "v4.0.0-alpha.6",
-    "font-awesome": "*",
     "letteringjs": "^0.7.0",
-    "linearicons": "^1.0.0"
+    "linearicons": "^1.0.0",
+    "angular-marked": "^1.2.2"
   },
   "overrides": {
     "bootstrap": {
       "main": [
         "dist/css/bootstrap.css"
-      ]
-    },
-    "font-awesome": {
-      "main": [
-        "css/font-awesome.css"
       ]
     },
     "linearicons": {
