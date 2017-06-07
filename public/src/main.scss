@@ -26,11 +26,15 @@ footer {
   font-size: 2rem;
 }
 
-a,
-a:hover,
-header nav .nav-item,
-header .navbar-brand,
+header,
 footer {
-  color: white;
-  text-decoration: none;
+  a,
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+footer p.float-right {
+  margin: 0;
 }
