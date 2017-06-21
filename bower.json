@@ -9,7 +9,8 @@
     "bootstrap": "v4.0.0-alpha.6",
     "letteringjs": "^0.7.0",
     "linearicons": "^1.0.0",
-    "angular-marked": "^1.2.2"
+    "angular-marked": "^1.2.2",
+    "angular-scroll": "^1.0.2"
   },
   "overrides": {
     "bootstrap": {
