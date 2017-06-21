@@ -1,6 +1,16 @@
 module app.pages {
   'use strict';
 
+  // dont forget we need to execute this somewhere
+  // for the lettering to work (JQuery & DOM needs to be loaded)
+  // $("#os-phrases > h2")
+  //   .css('opacity', 1)
+  //   .lettering('words')
+  //   .children("span")
+  //   .lettering()
+  //   .children("span")
+  //   .lettering();
+
   class HomeCtrl {
 
     constructor(
