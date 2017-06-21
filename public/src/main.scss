@@ -29,7 +29,9 @@ footer {
 header,
 footer {
   a,
-  a:hover {
+  a:hover,
+  a:visited,
+  a:active {
     color: white;
     text-decoration: none;
   }
