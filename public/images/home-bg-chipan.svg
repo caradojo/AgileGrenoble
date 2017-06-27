@@ -10,8 +10,10 @@
    viewBox="0 0 1500 1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="home-bg.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="home-bg2.svg"
+   width="1600"
+   height="1280">
   <metadata
      id="metadata672">
     <rdf:RDF>
@@ -39,31 +41,39 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.55625733"
-     inkscape:cx="814.10827"
-     inkscape:cy="984.90169"
+     inkscape:cx="810.75015"
+     inkscape:cy="813.7362"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4835" />
+       id="grid4835"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1500"
-       id="guide4837" />
+       id="guide4837"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="1500,0"
+       position="1,0"
        orientation="-1200,0"
-       id="guide4839" />
+       id="guide4839"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="1500,1200"
+       position="1,1"
        orientation="0,-1500"
-       id="guide4841" />
+       id="guide4841"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="0,1200"
+       position="0,1"
        orientation="1200,0"
-       id="guide4843" />
+       id="guide4843"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -74,322 +84,371 @@
      id="title8">home-code-bg-alt-05</title>
   <path
      style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.84205008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922"
-     d="M 138.53786,552.89714 87.110022,514.08671"
+     d="M 124.25716,188.85699 72.829324,150.04656"
      id="path4988"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
   <path
-     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.37875652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922"
-     d="M 208.98599,474.01078 181.29293,452.75022"
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.63884974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922"
+     d="M 198.53762,120.9551 167.64892,89.345041"
      id="path4986"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.85597277;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922"
-     d="m 54.756933,459.40852 79.697117,-7.00579"
+     d="m 40.476235,95.368373 79.697115,-7.00579"
      id="path4984"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
   <g
      id="top_right"
      data-name="top right"
-     class="cls-1">
+     class="cls-1"
+     style="opacity:0.1"
+     transform="translate(44.570005,407.85979)">
     <line
        class="cls-2"
-       x1="167.96"
+       x1="167.96001"
        y1="83.57"
        x2="115.38"
        y2="83.57"
-       id="line194" />
+       id="line194"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="141.67"
        y1="83.57"
-       x2="48.86"
+       x2="48.860001"
        y2="83.57"
-       id="line196" />
+       id="line196"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="130.26"
+       x1="130.25999"
        y1="103"
-       x2="76.96"
+       x2="76.959999"
        y2="103"
-       id="line198" />
+       id="line198"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="233.39"
        y1="103"
        x2="180.09"
        y2="103"
-       id="line200" />
+       id="line200"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="159.53"
        y1="103"
        x2="115.97"
        y2="103"
-       id="line202" />
+       id="line202"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="187.56"
        y1="83.57"
        x2="205.13"
        y2="83.57"
-       id="line204" />
+       id="line204"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="62.8"
+       x1="62.799999"
        y1="122.01"
        x2="10.22"
        y2="122.01"
-       id="line206" />
+       id="line206"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="103.34"
-       y1="199.74"
+       y1="199.74001"
        x2="50.75"
-       y2="199.74"
-       id="line208" />
+       y2="199.74001"
+       id="line208"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="62.8"
+       x1="62.799999"
        y1="122.01"
        x2="45.23"
        y2="122.01"
-       id="line210" />
+       id="line210"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="96.98"
+       x1="96.980003"
        y1="122.01"
        x2="198.09"
        y2="122.01"
-       id="line212" />
+       id="line212"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-35.94"
-       y1="200.18"
+       x1="-35.939999"
+       y1="200.17999"
        x2="65.18"
-       y2="200.18"
-       id="line214" />
+       y2="200.17999"
+       id="line214"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="80.51"
+       x1="80.510002"
        y1="122.01"
-       x2="80.51"
+       x2="80.510002"
        y2="122.01"
-       id="line216" />
+       id="line216"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-2"
-       d="M152.59,102.57A19.44,19.44,0,0,0,172,122"
-       id="path218" />
+       d="M 152.59,102.57 A 19.44,19.44 0 0 0 172,122"
+       id="path218"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="54.67"
+       x1="54.669998"
        y1="102.79"
-       x2="54.67"
+       x2="54.669998"
        y2="102.79"
-       id="line220" />
+       id="line220"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-9.22"
+       x1="-9.2200003"
        y1="102.57"
-       x2="36.46"
+       x2="36.459999"
        y2="102.57"
-       id="line222" />
+       id="line222"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="189.03"
-       y1="6.16"
+       y1="6.1599998"
        x2="189.03"
-       y2="6.16"
-       id="line224" />
+       y2="6.1599998"
+       id="line224"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="57.1"
-       y1="5.95"
-       x2="80.16"
-       y2="5.95"
-       id="line226" />
+       x1="57.099998"
+       y1="5.9499998"
+       x2="80.160004"
+       y2="5.9499998"
+       id="line226"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="105.21"
-       y1="5.95"
+       y1="5.9499998"
        x2="165.14"
-       y2="5.95"
-       id="line228" />
+       y2="5.9499998"
+       id="line228"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="64.33"
-       y1="5.95"
-       x2="7.18"
-       y2="5.95"
-       id="line230" />
+       x1="64.330002"
+       y1="5.9499998"
+       x2="7.1799998"
+       y2="5.9499998"
+       id="line230"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="249.91"
        y1="160.89"
        x2="249.91"
        y2="160.89"
-       id="line232" />
+       id="line232"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="201.68"
+       x1="201.67999"
        y1="160.89"
-       x2="201.68"
+       x2="201.67999"
        y2="160.89"
-       id="line234" />
+       id="line234"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="-15.41"
        y1="160.89"
-       x2="2.17"
+       x2="2.1700001"
        y2="160.89"
-       id="line236" />
+       id="line236"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="139.9"
+       x1="139.89999"
        y1="160.89"
        x2="157.47"
        y2="160.89"
-       id="line238" />
+       id="line238"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="206.08"
        y1="141.45"
        x2="214.86"
        y2="141.45"
-       id="line240" />
+       id="line240"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="38.66"
        y1="160.89"
-       x2="69.36"
+       x2="69.360001"
        y2="160.89"
-       id="line242" />
+       id="line242"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="52.14"
+       x1="52.139999"
        y1="160.89"
        x2="104.73"
        y2="160.89"
-       id="line244" />
+       id="line244"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="1.83"
        y1="160.89"
        x2="1.83"
        y2="160.89"
-       id="line246" />
+       id="line246"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="20.4"
        y1="160.89"
        x2="20.4"
        y2="160.89"
-       id="line248" />
+       id="line248"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-59.37"
+       x1="-59.369999"
        y1="141.45"
        x2="39.84"
        y2="141.45"
-       id="line250" />
+       id="line250"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="157.47"
        y1="141.45"
        x2="190.73"
        y2="141.45"
-       id="line252" />
+       id="line252"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-6.37"
+       x1="-6.3699999"
        y1="141.45"
        x2="138.77"
        y2="141.45"
-       id="line254" />
+       id="line254"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="122.78"
        y1="160.89"
        x2="122.78"
        y2="160.89"
-       id="line256" />
+       id="line256"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="235.71"
+       x1="235.71001"
        y1="160.89"
-       x2="176.6"
+       x2="176.60001"
        y2="160.89"
-       id="line258" />
+       id="line258"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-2"
-       d="M191.46,160.89A19.44,19.44,0,0,0,172,141.45"
-       id="path260" />
+       d="M 191.46,160.89 A 19.44,19.44 0 0 0 172,141.45"
+       id="path260"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-2"
-       d="M107.09,141.45A19.44,19.44,0,0,1,126.53,122"
-       id="path262" />
+       d="M 107.09,141.45 A 19.44,19.44 0 0 1 126.53,122"
+       id="path262"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="20.4"
        y1="160.89"
        x2="39.84"
        y2="141.45"
-       id="line264" />
+       id="line264"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="173.67"
        y1="180.52"
        x2="173.67"
        y2="180.52"
-       id="line266" />
+       id="line266"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="31.86"
+       x1="31.860001"
        y1="180.52"
-       x2="98.35"
+       x2="98.349998"
        y2="180.52"
-       id="line268" />
+       id="line268"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-54.94"
+       x1="-54.939999"
        y1="180.52"
        x2="13.9"
        y2="180.52"
-       id="line270" />
+       id="line270"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
-       x1="-4.69"
+       x1="-4.6900001"
        y1="180.52"
        x2="12.89"
        y2="180.52"
-       id="line272" />
+       id="line272"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="154.69"
        y1="180.52"
-       x2="57.45"
+       x2="57.450001"
        y2="180.52"
-       id="line274" />
+       id="line274"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="104.17"
        y1="161.3"
-       x2="65.73"
-       y2="199.74"
-       id="line276" />
+       x2="65.730003"
+       y2="199.74001"
+       id="line276"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-2"
        x1="22.82"
        y1="83.57"
        x2="-122.32"
        y2="83.57"
-       id="line278" />
+       id="line278"
+       style="fill:none;stroke:#000000;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
   </g>
   <g
      id="g4892"
-     style="stroke:#000000;stroke-opacity:0.09803922">
+     style="stroke:#000000;stroke-opacity:0.09803922"
+     transform="translate(-32.769011,196.46924)">
     <line
        class="cls-2"
        x1="1324.262"
@@ -590,224 +649,135 @@
   <g
      id="Layer_12"
      data-name="Layer 12"
-     class="cls-3">
+     class="cls-3"
+     style="opacity:0.5"
+     transform="translate(-2.3900001,407.85979)">
     <line
        class="cls-14"
        x1="73.18"
-       y1="83.23"
+       y1="83.230003"
        x2="109.7"
-       y2="83.23"
-       id="line607" />
+       y2="83.230003"
+       id="line607"
+       style="fill:none;stroke:#ef4751;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-15"
        x1="62.48"
        y1="141.44"
        x2="114.73"
        y2="141.44"
-       id="line609" />
+       id="line609"
+       style="fill:none;stroke:#f58826;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-16"
        x1="-31.51"
        y1="141.44"
-       x2="20.31"
+       x2="20.309999"
        y2="141.44"
-       id="line611" />
+       id="line611"
+       style="fill:none;stroke:#ef3b4b;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-17"
-       x1="72.01"
+       x1="72.010002"
        y1="102.56"
        x2="166.27"
        y2="102.56"
-       id="line613" />
+       id="line613"
+       style="fill:none;stroke:#ef6897;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-18"
-       x1="3.39"
+       x1="3.3900001"
        y1="122"
        x2="158.41"
        y2="122"
-       id="line615" />
+       id="line615"
+       style="fill:none;stroke:#ef4426;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-19"
-       x1="173.49"
+       x1="173.49001"
        y1="122"
-       x2="173.49"
+       x2="173.49001"
        y2="122"
-       id="line617" />
+       id="line617"
+       style="fill:none;stroke:#ee4550;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-18"
        x1="41.77"
        y1="141.44"
        x2="41.77"
        y2="141.44"
-       id="line619" />
+       id="line619"
+       style="fill:none;stroke:#ef4426;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-20"
        x1="62.48"
        y1="141.44"
        x2="62.48"
        y2="141.44"
-       id="line621" />
+       id="line621"
+       style="fill:none;stroke:#ee4651;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-21"
-       x1="58.56"
-       y1="83.23"
-       x2="58.56"
-       y2="83.23"
-       id="line623" />
+       x1="58.560001"
+       y1="83.230003"
+       x2="58.560001"
+       y2="83.230003"
+       id="line623"
+       style="fill:none;stroke:#f8981d;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-15"
        x1="-11.92"
        y1="102.56"
-       x2="83.99"
+       x2="83.989998"
        y2="102.56"
-       id="line625" />
+       id="line625"
+       style="fill:none;stroke:#f58826;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-15"
-       x1="98.77"
-       y1="83.23"
-       x2="161.32"
-       y2="83.23"
-       id="line627" />
+       x1="98.769997"
+       y1="83.230003"
+       x2="161.32001"
+       y2="83.230003"
+       id="line627"
+       style="fill:none;stroke:#f58826;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-17"
-       d="M24,102.62A19.38,19.38,0,0,1,43.43,83.23"
-       id="path629" />
+       d="M 24,102.62 A 19.38,19.38 0 0 1 43.43,83.23"
+       id="path629"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ef6897;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-20"
-       d="M139.3,83.23A38.77,38.77,0,0,1,100.53,122"
-       id="path631" />
+       d="M 139.3,83.23 A 38.77,38.77 0 0 1 100.53,122"
+       id="path631"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ee4651;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <path
        class="cls-22"
-       d="M48.34,102.56a38.87,38.87,0,0,1,38.87,38.87"
-       id="path633" />
+       d="m 48.34,102.56 a 38.87,38.87 0 0 1 38.87,38.87"
+       id="path633"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#faac18;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-20"
        x1="43.43"
-       y1="83.23"
+       y1="83.230003"
        x2="43.43"
-       y2="83.23"
-       id="line635" />
+       y2="83.230003"
+       id="line635"
+       style="fill:none;stroke:#ee4651;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
     <line
        class="cls-15"
        x1="106.46"
        y1="122"
        x2="158.7"
        y2="122"
-       id="line637" />
-  </g>
-  <g
-     id="Layer_5"
-     data-name="Layer 5"
-     class="cls-3">
-    <line
-       class="cls-23"
-       x1="1380.22"
-       y1="608.45"
-       x2="1424.6"
-       y2="608.45"
-       id="line640" />
-    <line
-       class="cls-23"
-       x1="1380.81"
-       y1="627.89"
-       x2="1340.65"
-       y2="627.89"
-       id="line642" />
-    <line
-       class="cls-24"
-       x1="1503.62"
-       y1="627.89"
-       x2="1448.74"
-       y2="627.89"
-       id="line644" />
-    <line
-       class="cls-25"
-       x1="1413.6"
-       y1="627.89"
-       x2="1413.6"
-       y2="627.89"
-       id="line646" />
-    <line
-       class="cls-24"
-       x1="1398.33"
-       y1="627.89"
-       x2="1398.33"
-       y2="627.89"
-       id="line648" />
-    <line
-       class="cls-25"
-       x1="1347.49"
-       y1="608.45"
-       x2="1403.68"
-       y2="608.45"
-       id="line650" />
-    <line
-       class="cls-23"
-       x1="1441.74"
-       y1="608.45"
-       x2="1487.23"
-       y2="608.45"
-       id="line652" />
-    <line
-       class="cls-26"
-       x1="1431.03"
-       y1="627.89"
-       x2="1455.92"
-       y2="627.89"
-       id="line654" />
-    <line
-       class="cls-25"
-       x1="1490.21"
-       y1="627.89"
-       x2="1470.78"
-       y2="608.45"
-       id="line656" />
-    <line
-       class="cls-24"
-       x1="1396.57"
-       y1="589.02"
-       x2="1357.69"
-       y2="627.89"
-       id="line658" />
-    <line
-       class="cls-26"
-       x1="1383.72"
-       y1="589.02"
-       x2="1458.37"
-       y2="589.02"
-       id="line660" />
-    <line
-       class="cls-24"
-       x1="1312.21"
-       y1="589.02"
-       x2="1312.21"
-       y2="589.02"
-       id="line662" />
-    <line
-       class="cls-23"
-       x1="1363.52"
-       y1="589.02"
-       x2="1332.21"
-       y2="589.02"
-       id="line664" />
-    <line
-       class="cls-25"
-       x1="1383.72"
-       y1="589.02"
-       x2="1400.6"
-       y2="589.02"
-       id="line666" />
-    <line
-       class="cls-24"
-       x1="1455.16"
-       y1="608.45"
-       x2="1441.74"
-       y2="608.45"
-       id="line668" />
+       id="line637"
+       style="fill:none;stroke:#f58826;stroke-width:9px;stroke-linecap:round;stroke-miterlimit:10" />
   </g>
   <g
      id="g4845"
-     transform="translate(-84.493268,-493.47664)">
+     transform="translate(-52.471218,-488.42053)">
     <rect
        y="738.88245"
        x="82.695541"
@@ -847,7 +817,7 @@
   <g
      id="g4949"
      style="stroke:#000000;stroke-opacity:0.09803922"
-     transform="translate(-41.347769,-50.336415)">
+     transform="translate(-43.03314,-254.26631)">
     <line
        class="cls-2"
        x1="1329.8033"
@@ -880,89 +850,89 @@
      id="rect4954"
      width="58.426197"
      height="35.954582"
-     x="1311.4434"
-     y="478.21176" />
+     x="1309.7581"
+     y="274.28186" />
   <rect
-     style="opacity:1;fill:#f9ab18;fill-opacity:0.50196081;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#f9ab18;fill-opacity:0.50196078;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4956"
      width="46.740955"
      height="28.763666"
-     x="1419.3071"
-     y="301.13544" />
+     x="1417.6218"
+     y="97.205536" />
   <rect
-     style="opacity:1;fill:#db3745;fill-opacity:0.54901963;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#db3745;fill-opacity:0.54901961;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4958"
      width="50.336414"
      height="34.156853"
-     x="1287.1741"
-     y="311.92181" />
+     x="1285.4888"
+     y="107.99191" />
   <rect
-     style="opacity:1;fill:#6450a9;fill-opacity:0.50196081;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#6450a9;fill-opacity:0.50196078;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4960"
      width="43.1455"
      height="32.359123"
-     x="1521.7777"
-     y="326.30365" />
+     x="1520.0924"
+     y="122.37375" />
   <rect
      style="opacity:1;fill:#000000;fill-opacity:0.09803922;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4962"
      width="36.159546"
      height="28.763674"
-     x="1442.4727"
-     y="451.24582" />
+     x="1440.7874"
+     y="247.31593" />
   <rect
-     style="opacity:1;fill:#0078db;fill-opacity:0.50196081;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#0078db;fill-opacity:0.50196078;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4964"
      width="37.752312"
      height="28.763666"
-     x="15.280698"
-     y="449.44809" />
+     x="1"
+     y="85.407944" />
   <rect
      style="opacity:1;fill:#000000;fill-opacity:0.09803922;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4966"
      width="46.740955"
      height="29.662531"
-     x="38.651176"
-     y="498.88565" />
+     x="24.370476"
+     y="134.8455" />
   <rect
-     style="opacity:1;fill:#e07c23;fill-opacity:0.54901963;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#e07c23;fill-opacity:0.54901961;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4968"
      width="43.1455"
      height="31.460258"
-     x="207.63771"
-     y="473.71744" />
+     x="174.8851"
+     y="123.38227" />
   <rect
      style="opacity:1;fill:#000000;fill-opacity:0.09803922;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4970"
      width="42.246635"
      height="27.864801"
-     x="136.62741"
-     y="436.86398" />
+     x="122.34671"
+     y="72.823837" />
   <rect
-     style="opacity:1;fill:#db5f8a;fill-opacity:0.54901963;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
+     style="opacity:1;fill:#db5f8a;fill-opacity:0.54901961;stroke:#000000;stroke-linecap:square;stroke-opacity:0.09803922"
      id="rect4972"
      width="39.550041"
      height="29.662531"
-     x="139.32401"
-     y="554.61523" />
+     x="125.0433"
+     y="190.57509" />
   <rect
      style="opacity:1;fill:none;fill-opacity:0.09803922;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.09803922"
      id="rect4974"
      width="206.53394"
      height="125.85686"
-     x="1293.4661"
-     y="0"
+     x="1286.7246"
+     y="492.12836"
      ry="0" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#db5f8a;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54901963"
-     d="m 1293.4661,2.6965937 27.8648,16.1953823 44.9433,4.494323 41.7972,14.831265 48.5386,4.044891 25.6177,21.123317 1.3483,17.078426 15.9746,45.842092"
+     style="fill:none;fill-rule:evenodd;stroke:#db5f8a;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54901961"
+     d="m 1286.7246,494.82495 27.8648,16.19538 44.9433,4.49432 41.7972,14.83127 48.5386,4.04489 25.6177,21.12332 1.3483,17.07842 15.9746,45.84209"
      id="path8922"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <g
      id="g4949-6"
      style="stroke:#000000;stroke-opacity:0.09803922"
-     transform="matrix(0.64592805,-0.06021982,0.04927324,0.52851315,-854.84639,-115.54521)">
+     transform="matrix(0.64592805,-0.06021982,0.04927324,0.52851315,-857.23639,292.31458)">
     <line
        class="cls-2"
        x1="1329.8033"
