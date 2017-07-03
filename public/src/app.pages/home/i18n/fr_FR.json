@@ -20,7 +20,10 @@
         "sponsors": {
             "title": "Sponsors",
             "thx": "Un grand merci à eux",
-            "commit": "Découvrir l'offre de sponsoring"
+            "commit": "Découvrir l'offre de sponsoring",
+            "prestige": "Prestige",
+            "premium": "Premium",
+            "digital": "Digital"
         }
     }
 }
