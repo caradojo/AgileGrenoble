@@ -1,3 +1,5 @@
+@import '../../../lib/bootstrap/scss/bootstrap';
+@import '../../mixins';
 .main-menu {
   margin-top: 8rem;
   a,
@@ -42,11 +44,29 @@ address {
   font-weight: bold;
 }
 
-#sponsors {
-  .images {
-    padding: 2em 0;
-    img {
-      width: 10rem;
+.sponsors {
+  &-images {
+    &__category,
+    &__logos {
+      @extend .align-items-center;
+      @extend .justify-content-center;
+      @include respond-to('sm') {
+        // @extend .flex-column;
+        flex-direction: column;
+      }
     }
+    &__logos {
+      width: 90%;
+      img {
+        max-width: 100%;
+      }
+    }
+    // padding: 2em 0;
+    // img {
+    //  width: 10rem;
+    //   @include respond-to('sm') {
+    //     width: 90%;
+    //   }
+    // }
   }
 }
