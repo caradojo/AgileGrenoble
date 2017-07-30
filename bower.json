@@ -10,7 +10,9 @@
     "letteringjs": "^0.7.0",
     "linearicons": "^1.0.0",
     "angular-marked": "^1.2.2",
-    "angular-scroll": "^1.0.2"
+    "angular-scroll": "^1.0.2",
+    "font-awesome": "^4.7.0",
+    "components-font-awesome": "^4.7.0"
   },
   "overrides": {
     "bootstrap": {
@@ -21,6 +23,11 @@
     "linearicons": {
       "main": [
         "dist/web-font/style.css"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "dist/web-font/font-awesome.css"
       ]
     }
   }

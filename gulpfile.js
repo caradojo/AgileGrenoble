@@ -139,7 +139,10 @@ gulp.task('images', ['build', 'package'], function () {
 });
 
 gulp.task('fonts', ['build', 'package'], function () {
-  return gulp.src(['public/lib/linearicons/dist/web-font/fonts/*.{eot,svg,ttf,woff,woff2}'])
+  return gulp.src([
+      'public/lib/linearicons/dist/web-font/fonts/*.{eot,svg,ttf,woff,woff2}',
+      'public/lib/font-awesome/fonts/*.{eot,svg,ttf,woff,woff2}',
+    ])
     .pipe(gulp.dest('public/dist/fonts'));
 });
 

@@ -37,13 +37,13 @@
            href="#program"
            du-smooth-scroll>
           <div class="lnr lnr-calendar-full lg"></div>
-          <span translate="sections.program"></span>
+          <span translate="sections.program.title"></span>
         </a>
         <a class="col"
            href="#place"
            du-smooth-scroll>
           <div class="lnr lnr-map-marker lg"></div>
-          <span translate="sections.place"></span>
+          <span translate="sections.place.title"></span>
         </a>
         <a class="col"
            href="#contact"
@@ -92,7 +92,7 @@
   <div class="container">
     <div class="lnr lnr-calendar-full lg text-white "></div>
     <h1 class="display-4 text-white"
-        translate="sections.program"></h1>
+        translate="sections.program.title"></h1>
 
     <!-- Morning -->
     <div class="card-deck">
@@ -101,7 +101,7 @@
              translate="wednesday"></div>
         <div class="card-block">
           <div class="d-flex align-items-center morning">
-            <h4 class="col">Conférences</h4>
+            <h4 class="col" translate="sections.program.conf"></h4>
           </div>
           <p class="card-text"><small class="text-muted">8h30 - 12h40</small></p>
           <hr class="my-2">
@@ -110,7 +110,7 @@
               <h4>Conf</h4>
             </div>
             <div class="col">
-              <h4>Lab</h4>
+              <h4 translate="sections.program.lab"></h4>
             </div>
           </div>
           <p class="card-text"><small class="text-muted">14h - 18h</small></p>
@@ -122,7 +122,7 @@
              translate="thursday"></div>
         <div class="card-block">
           <div class="d-flex align-items-center morning">
-            <h4 class="col">Conférences</h4>
+            <h4 class="col" translate="sections.program.conf"></h4>
           </div>
           <p class="card-text"><small class="text-muted">8h30 - 12h40</small></p>
           <hr class="my-2">
@@ -131,7 +131,7 @@
               <h4>Conf</h4>
             </div>
             <div class="col">
-              <h4>Lab</h4>
+              <h4 translate="sections.program.lab"></h4>
             </div>
           </div>
           <p class="card-text"><small class="text-muted">14h - 18h</small></p>
@@ -143,7 +143,7 @@
              translate="friday"></div>
         <div class="card-block">
           <div class="d-flex align-items-center morning">
-            <h4 class="col">Conférences</h4>
+            <h4 class="col" translate="sections.program.conf"></h4>
           </div>
           <p class="card-text"><small class="text-muted">8h30 - 12h40</small></p>
           <hr class="my-2">
@@ -152,7 +152,7 @@
               <h4>Conf</h4>
             </div>
             <div class="col">
-              <h4>Lab</h4>
+              <h4 translate="sections.program.lab"></h4>
             </div>
           </div>
           <p class="card-text"><small class="text-muted">14h - 18h</small></p>
@@ -164,7 +164,7 @@
              translate="saturday"></div>
         <div class="card-block">
           <div class="d-flex align-items-center morning">
-            <h4 class="col">Agile 4kids</h4>
+            <h4 class="col" translate="sections.program.forKids"></h4>
           </div>
           <p class="card-text"><small class="text-muted">14h - 18h</small></p>
         </div>
@@ -175,14 +175,14 @@
     <div class="card-deck">
       <div class="card">
         <div class="card-block">
-          <h4 class="card-title">Soirée</h4>
+          <h4 class="card-title" translate="sections.program.night"></h4>
           <p class="card-text"><small class="text-muted">19h - 23h59</small></p>
         </div>
       </div>
 
       <div class="card">
         <div class="card-block">
-          <h4 class="card-title">Soirée</h4>
+          <h4 class="card-title" translate="sections.program.night"></h4>
           <p class="card-text"><small class="text-muted">19h - 23h59</small></p>
         </div>
       </div>
@@ -197,6 +197,13 @@
         </div>
       </div>
     </div>
+
+    <div class="mt-4">
+        <h5 class="text-white text-left">
+          <p translate="sections.program.registration1"></p>
+          <p><span translate="sections.program.registration2"></span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSegoRXuGwHak01pLEN8Ut6BGUlHR8pRIau8T9g2CpzxBFxt4Q/viewform" target="_blank"><span translate="sections.program.registration3"></span></a> <span translate="sections.program.registration4"></span></p>
+        </h5>
+    </div>
   </div>
 </section>
 
@@ -205,7 +212,7 @@
   <div class="container">
     <div class="lnr lnr-map-marker lg"></div>
     <h1 class="display-4"
-        translate="sections.place"></h1>
+        translate="sections.place.title"></h1>
 
     <div class="container">
       <div class="row">
@@ -216,7 +223,7 @@
             <div>38000 Grenoble</div>
           </address>
         </div>
-        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
           <div class="hidden-lg-up">
             <iframe class="container well well-small "
                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2811.803360182313!2d5.7137363!3d45.19107665000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478af481a467bd11%3A0xd9070099953ccffb!2sCentre+de+Congr%C3%A8s+et+Seminaire+WTC+Grenoble!5e0!3m2!1sfr!2sfr!4v1395177516214 "
@@ -232,6 +239,15 @@
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="col-12 pt-5">
+          <a href="https://www.grenoble-tourisme.com/fr/ou-dormir/"
+              target="_blank"
+              role="button"
+              class="btn btn-primary btn-lg"
+              translate="sections.place.accomodation"></a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -241,17 +257,22 @@
   <div class="container ">
     <div class="lnr lnr-envelope lg "></div>
     <h1 class="display-4 "
-        translate="sections.contact"></h1>
+        translate="sections.contact.title"></h1>
 
     <h2>
       <a class="text-white"
-         href="http://www.clubagilerhonealpes.org/">Club Agile Rhône Alpes (CARA)</a>
+         href="http://www.clubagilerhonealpes.org/"  translate="sections.contact.organizer"></a>
     </h2>
-
-    <h3>
-      <a class="text-white"
-         href="mailto:contact@agile-grenoble.org">contact@agile-grenoble.org</a>
-    </h3>
+    <dl class="row">
+      <dt class="col-sm-6 text-right" translate="sections.cfp.title"></dt>
+      <dd class="col-sm-6 text-left"><a class="text-white" href="mailto:orateur@agile-grenoble.org">orateur@agile-grenoble.org</a></dd>
+      <dt class="col-sm-6 text-right" translate="sections.sponsors.title"></dt>
+      <dd class="col-sm-6 text-left"><a class="text-white" href="mailto:sponsor@agile-grenoble.org">sponsor@agile-grenoble.org</a></dd>
+      <dt class="col-sm-6 text-right" translate="sections.contact.commitment"></dt>
+      <dd class="col-sm-6 text-left"><a class="text-white" href="mailto:inscription@agile-grenoble.org">inscription@agile-grenoble.org</a></dd>
+      <dt class="col-sm-6 text-right" translate="sections.contact.others"></dt>
+      <dd class="col-sm-6 text-left"><a class="text-white" href="mailto:contact@agile-grenoble.org">contact@agile-grenoble.org</a></dd>
+    </dl>
   </div>
 </section>
 

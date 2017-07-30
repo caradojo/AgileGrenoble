@@ -14,9 +14,27 @@
             "presentation7": "La sélection se fera au fur et à mesure de la soumission des propositions. Soumettez au plus tôt pour être présélectionné.",
             "submit": "Soumettre une session"
         },
-        "program": "Programme",
-        "place": "Lieu",
-        "contact": "Contact",
+        "program": {
+            "title":"Programme",
+            "conf": "Conférences",
+            "night": "Soirée",
+            "lab": "Spécial 10ème",
+            "forKids": "Agile4Kids",
+            "registration1": "Les inscriptions seront ouvertes début septembre.",
+            "registration2": "Remplissez le",
+            "registration3": "formulaire",
+            "registration4": "pour être prévenu par mail de l'ouverture des inscriptions."
+        },
+        "place": {
+            "title": "Lieu",
+            "accomodation": "Trouver un logement"
+        },
+        "contact": {
+            "title": "Contact",
+            "organizer": "Club Agile Rhône Alpes (CARA)",
+            "registrations": "Insciptions",
+            "others": "Autres questions"
+        },
         "sponsors": {
             "title": "Sponsors",
             "thx": "Un grand merci à eux",
