@@ -42,11 +42,20 @@ address {
   font-weight: bold;
 }
 
-#sponsors {
+.sponsors {
   .images {
     padding: 2em 0;
+    text-align: center;
     img {
       width: 10rem;
+    }
+  }
+  .category {
+    img {
+      width: 15rem;
+    }
+    .row {
+      box-shadow: 0 6rem 2rem -6rem #bcbcbc;
     }
   }
 }
