@@ -25,15 +25,24 @@ address {
   margin-bottom: 0.5rem;
 }
 
-.card-deck {
-  margin-top: 2rem;
-  .card.empty {
+.card {
+  margin-top: 1rem;
+}
+
+.card.empty {
     background-color: transparent;
   }
+
+.card-columns {
+  column-count: 1;
 }
 
 .morning {
   height: 6rem;
+}
+
+.afternoon {
+  padding: 1rem;
 }
 
 .card-header {
@@ -68,5 +77,9 @@ address {
 @media (min-width: 576px) {
   .lnr.lg {
     font-size: 3rem;
+  }
+
+  .card-columns {
+    column-count: 4;
   }
 }
