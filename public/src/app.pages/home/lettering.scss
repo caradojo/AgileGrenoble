@@ -46,12 +46,12 @@
 }
 
 #os-phrases {
-  padding: 5em 0;
+  padding: 3em 0;
 }
 
 .os-phrases h2 {
   font-family: 'Palanquin', 'Lato', sans-serif;
-  font-size: 50px;
+  font-size: 25px;
   font-weight: 200;
   width: 100%;
   overflow: hidden;
@@ -283,4 +283,16 @@
 .os-phrases h2:nth-child(2) .word2,
 .os-phrases h2:nth-child(4) .word3 {
   font-weight: 600;
+}
+
+
+@media (max-width: 576px) {
+  #os-phrases {
+    padding: 2em 0;
+  }
+
+  .os-phrases h2 {
+    font-size: 18px;
+    letter-spacing: 10px;
+  }
 }

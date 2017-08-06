@@ -21,7 +21,7 @@ address {
 }
 
 .lnr.lg {
-  font-size: 4rem;
+  font-size: 2rem;
   margin-bottom: 0.5rem;
 }
 
@@ -48,6 +48,9 @@ address {
     text-align: center;
     img {
       width: 10rem;
+      &.prestige {
+        width: 25rem;
+      }
     }
   }
   .category {
@@ -57,5 +60,13 @@ address {
     .row {
       box-shadow: 0 6rem 2rem -6rem #bcbcbc;
     }
+  }
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  .lnr.lg {
+    font-size: 3rem;
   }
 }

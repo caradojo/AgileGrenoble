@@ -3,6 +3,10 @@ body {
   min-height: 75rem;
 }
 
+h1 {
+  font-size: 4.5rem;
+}
+
 .jumbotron {
   background-color: #ffffff;
 }
@@ -17,9 +21,10 @@ footer {
 .jumbotron.nav {
   background-image: url('images/home-bg2.svg'), linear-gradient(180deg, #24292e, #2b3137);
   background-size: 100% auto;
-  background-position: center -75px, 0 0;
+  background-position: center 75px, 0 0;
   padding-top: 8em;
   padding-bottom: 5em;
+  background-repeat: no-repeat;
 }
 
 .lead {
@@ -43,8 +48,18 @@ footer p.float-right {
 
 
 
-@media (max-width: 575px) {
+@media (max-width: 576px) {
+   h1 {
+    font-size: 2.5rem;
+  }
+
+  .lead {
+    font-size: 1.5rem;
+  }
+
   .jumbotron.nav {
-    background-image: linear-gradient(180deg, #24292e, #2b3137);
+    background: linear-gradient(180deg, #24292e, #2b3137);
+    padding-top: 6em;
+    padding-bottom: 2em;
   }
 }
