@@ -44,5 +44,9 @@
             "premium": "Premium",
             "digital": "Digital"
         }
+    },
+    "4kids": {
+        "date": "25 nomvembre",
+        "hour": "14h à 18h"
     }
 }
