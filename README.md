@@ -86,8 +86,10 @@ json files are concatenated by locale (build) & copied to dist (dist)
 
 ## How to add a sponsor
 
-* add logo file in  
+* add logo file under `public/images/sponsors`
 
-* modify html adding information about the sponsor (link to logo, description and link to website) in public/src/app.pages/sponsors/sponsors.html
+* modify html adding link to logo in `public/src/app.pages/home/home.html`
+
+* modify html adding information about the sponsor (link to logo, description and link to website) in `public/src/app.pages/sponsors/sponsors.html`
 
 
