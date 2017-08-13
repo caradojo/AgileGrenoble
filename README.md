@@ -83,3 +83,11 @@ json files are concatenated by locale (build) & copied to dist (dist)
   - /!\ your state must be a child of the `shell` state (e.g.: `shell.<my-page>`) if you want header, footer, ...
 
 * Add logic, template, styles, whatever...
+
+## How to add a sponsor
+
+* add logo file in  
+
+* modify html adding information about the sponsor (link to logo, description and link to website) in public/src/app.pages/sponsors/sponsors.html
+
+
