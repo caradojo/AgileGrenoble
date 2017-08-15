@@ -14,6 +14,10 @@
             "presentation7": "La sélection se fera au fur et à mesure de la soumission des propositions. Soumettez au plus tôt pour être présélectionné.",
             "submit": "Soumettre une session"
         },
+        "orateurs":{
+        	"title": "Keynotes & Orateurs Spécial 10ème édition",
+        	"presentation1" : "Cliquer sur les orateurs pour avoir le détail sur leur biographie et leur contribution pour cette 10ème édition de Agile Grenoble"
+        },
         "program": {
             "title":"Programme",
             "conf": "Conférences",
