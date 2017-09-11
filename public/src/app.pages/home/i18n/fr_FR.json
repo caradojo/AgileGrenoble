@@ -24,7 +24,6 @@
             "night": "Soirée",
             "lab": "Spécial 10ème",
             "forKids": "Agile4Kids",
-            "registration1": "Les inscriptions seront ouvertes début septembre.",
             "registration2": "Remplissez le",
             "registration3": "formulaire",
             "registration4": "pour être prévenu par mail de l'ouverture des inscriptions."
@@ -47,6 +46,9 @@
             "prestige": "Prestige",
             "premium": "Premium",
             "digital": "Digital"
+        },
+        "ticketing": {
+            "opening": "Ouverture de la billeterie : 17 septembre 17h17 2017"
         }
     },
     "4kids": {
