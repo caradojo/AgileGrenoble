@@ -17,7 +17,8 @@
   "overrides": {
     "bootstrap": {
       "main": [
-        "dist/css/bootstrap.css"
+        "dist/css/bootstrap.min.css",
+        "dist/js/bootstrap.min.js"
       ]
     },
     "linearicons": {
