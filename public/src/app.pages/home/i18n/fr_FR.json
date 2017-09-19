@@ -15,7 +15,8 @@
             "submit": "Soumettre une session"
         },
         "orateurs":{
-        	"title": "Seront présents...",
+            "title": "Seront présents...",
+            "seeAll": "Voir tous les orateurs",
         	"presentation1" : "Cliquer sur les orateurs pour avoir des détails sur leur biographie et leur contribution pour cette 10ème édition de Agile Grenoble"
         },
         "program": {
