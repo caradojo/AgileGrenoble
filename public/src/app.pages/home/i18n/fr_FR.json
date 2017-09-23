@@ -27,7 +27,9 @@
             "forKids": "Agile4Kids",
             "registration2": "Ne ratez pas Agile Grenoble 2018, remplissez le",
             "registration3": "formulaire",
-            "registration4": "dès à présent pour être prévenu par mail de l'édition 2018 !"
+            "registration4": "dès à présent pour être prévenu par mail de l'édition 2018 !",
+            "description" : "Un programme très riche constitué de nombreux tracks, de keynotes de grande qualité, de surprises, de café toute la journée, apéro en fin d’après midi et de soirées.",
+            "explore": "Voir le programme complet"
         },
         "place": {
             "title": "Lieu",
@@ -50,6 +52,7 @@
         },
         "ticketing": {
             "title": "Billeterie",
+            "lastTickets": "Dernières places disponibles !",
             "opening": "Ouverture de la billeterie : 17 septembre 2017 à 17h17",
             "openingdescription" : "Les inscriptions seront ouvertes en 2 étapes :",
             "openingdescription1part1" : "''Blind Bird'' à partir du dimanche 17 septembre 2017 à 17h17 : ",
@@ -57,7 +60,7 @@
             "openingdescription2part1" : "''Ouverture Générale'' à partir du dimanche 24 septembre :",
             "openingdescription2part2" : " Ouverture du reste des places disponibles. Nous publierons une première version du programme avant l'ouverture générale.",
             "description" : "Sélectionnez le jour qui vous convient. Ou aller directement sur le site de la billeterie pour pouvoir acheter des billets sur plusieurs journées",
-            "button" : "Inscriptions"
+            "button" : "S'inscrire"
         }
     },
     "4kids": {
