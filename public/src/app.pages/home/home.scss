@@ -108,3 +108,18 @@ address {
         column-count: 4;
     }
 }
+
+.menuEvent {
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+
+    & > a {
+        font-family: "Monotype corsiva", Times, serif;
+
+        & > img {
+            width: 3rem;
+            margin-right: 10px;
+        }
+    }
+}
